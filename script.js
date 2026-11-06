@@ -30,7 +30,7 @@ contactForm?.addEventListener('submit', (event) => {
   );
   const status = document.querySelector('.form-status');
   if (!enquiryEmail) {
-    status.textContent = 'Please call 9974213144. Add a valid business email in script.js to enable email enquiries.';
+    status.textContent = 'Please call 9313118520. Add a valid business email in script.js to enable email enquiries.';
     return;
   }
   status.textContent = 'Your email draft is ready.';
